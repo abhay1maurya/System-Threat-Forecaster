@@ -159,11 +159,11 @@ To evaluate the performance of the classification models, the following metrics 
 
 The trained model achieves the following performance metrics on the validation dataset:
 
-- **Accuracy**: 92%
-- **Precision**: 90%
-- **Recall**: 88%
-- **F1-Score**: 89%
-- **ROC-AUC**: 0.95
+- **Accuracy**: 63%
+- **Precision**: 63%
+- **Recall**: 63%
+- **F1-Score**: 63%
+- **ROC-AUC**: 0.667
 
 *Note: These results are indicative and may vary based on data preprocessing and model tuning.*
 
